@@ -1,16 +1,20 @@
 {
   "date": "2025-10-28",
-  "summary": "- .streakagent: 2 changes",
+  "summary": "- day 9\\day9_q1.c: 6 changes\n- day 9\\inDiAdjMat2.dat: 5 changes\n- .streakagent: 4 changes\n- day 9\\inDiAdjMat2.txt: 3 changes\n- day 9\\day9_q1.exe: 3 changes\n- day8\\day8_q1.exe: 3 changes\n- day 9\\tempCodeRunnerFile.c: 2 changes\n- day 9\\Day3: 2 changes\n- day8\\day9_q2.c: 2 changes\n- day8\\day9_q2.exe: 2 changes\n- day 9: 1 changes\n- daa1.c: 1 changes\n- Day1\\daa1.c: 1 changes\n- a.exe: 1 changes\n- Day1\\a.exe: 1 changes\n- daa1.exe: 1 changes\n- Day1\\daa1.exe: 1 changes\n- daa2.c: 1 changes\n- Day1\\daa2.c: 1 changes\n- daa2.exe: 1 changes\n- Day1\\daa2.exe: 1 changes\n- daa3.c: 1 changes\n- Day1\\daa3.c: 1 changes\n- daa3.exe: 1 changes\n- Day1\\daa3.exe: 1 changes\n- daa4.c: 1 changes\n- Day1\\daa4.c: 1 changes\n- input.txt: 1 changes\n- Day1\\input.txt: 1 changes\n- day8\\daa1: 1 changes\n- day8\\day8_q1.c: 1 changes",
   "statistics": {
-    "totalFiles": 1,
-    "totalChanges": 2,
-    "mostEditedFile": ".streakagent",
-    "workDuration": "0h 0m",
+    "totalFiles": 31,
+    "totalChanges": 53,
+    "mostEditedFile": "day 9\\day9_q1.c",
+    "workDuration": "11h 59m",
     "fileTypes": {
-      "unknown": 2
+      "unknown": 8,
+      "c": 19,
+      "dat": 5,
+      "txt": 5,
+      "exe": 16
     },
-    "peakActivityHour": "12:00-13:00",
-    "totalLinesChanged": 16
+    "peakActivityHour": "13:00-14:00",
+    "totalLinesChanged": 1118
   },
   "projectDetails": {
     "branch": "main",
