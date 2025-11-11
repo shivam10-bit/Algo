@@ -1,0 +1,26 @@
+{
+  "date": "2025-11-11",
+  "summary": "- .streakagent: 11 changes\n- day 9\\day9_q1.c: 7 changes\n- day 9\\inDiAdjMat2.dat: 5 changes\n- day 9\\inDiAdjMat2.txt: 4 changes\n- day 9\\day9_q1.exe: 4 changes\n- day8\\day8_q1.exe: 4 changes\n- day8\\day9_q2.c: 3 changes\n- day8\\day9_q2.exe: 3 changes\n- day 9\\tempCodeRunnerFile.c: 2 changes\n- day 9\\Day3: 2 changes\n- Day1\\a.exe: 2 changes\n- Day1\\daa1.exe: 2 changes\n- Day1\\daa2.c: 2 changes\n- Day1\\daa2.exe: 2 changes\n- Day1\\daa3.c: 2 changes\n- Day1\\daa3.exe: 2 changes\n- Day1\\daa4.c: 2 changes\n- Day1\\input.txt: 2 changes\n- day8\\day8_q1.c: 2 changes\n- day 9: 1 changes\n- daa1.c: 1 changes\n- Day1\\daa1.c: 1 changes\n- a.exe: 1 changes\n- daa1.exe: 1 changes\n- daa2.c: 1 changes\n- daa2.exe: 1 changes\n- daa3.c: 1 changes\n- daa3.exe: 1 changes\n- daa4.c: 1 changes\n- input.txt: 1 changes\n- day8\\daa1: 1 changes\n- day8\\desktop.ini: 1 changes",
+  "statistics": {
+    "totalFiles": 32,
+    "totalChanges": 76,
+    "mostEditedFile": ".streakagent",
+    "workDuration": "336h 52m",
+    "fileTypes": {
+      "unknown": 15,
+      "c": 25,
+      "dat": 5,
+      "txt": 7,
+      "exe": 23,
+      "ini": 1
+    },
+    "peakActivityHour": "13:00-14:00",
+    "totalLinesChanged": 1549
+  },
+  "projectDetails": {
+    "branch": "main",
+    "commitHash": "6f18c39",
+    "remote": "https://github.com/shivam10-bit/Algo.git",
+    "name": "c:\\Users\\shiva\\OneDrive\\Desktop\\Coding\\DAA"
+  }
+}
